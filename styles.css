@@ -1,5 +1,9 @@
+body {
+  font-family: "Georgia", "Times New Romana", serif;
+}
+
 details {
-  border: 2px solid #aaaaaa;
+  border: 2px solid #aaa;
   border-radius: 10px;
   padding: .5em .5em 0;
 }
